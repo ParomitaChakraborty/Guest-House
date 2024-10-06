@@ -1,0 +1,205 @@
+body{
+    background-image: url(baranti.jpg);
+    background-repeat:  no-repeat;
+    background-position: centre;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.button {
+    margin:20px auto;
+    width:70%;
+    }
+button {
+    background: #96ded1;
+    border-color: black;
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    height: 60px;
+    margin-left: 300px;
+    margin-top: 20px;
+    width: 150px;
+}
+button .submit:hover {
+    background-color: #009698;
+    cursor:pointer;
+}
+.image {
+margin:150px auto;
+width:70%;
+}
+img {
+    max-width:500px;
+    float:left;
+    border:3px solid #fff;
+    border-radius:10px;
+    margin-right:15px;
+}
+.box h4 {
+font-size:42px;
+}
+.box p {
+    font-size:22px;
+    color:#fff;
+    }
+.memorable h3 {
+    font-size:16px;
+}
+.memorable h4 {
+    font-size:42px;
+}
+.memorable {
+    margin:150px auto;
+    width:70%;  
+}
+
+.memorable1 h4 {
+    font-size:30px;
+    color:#000;
+}
+.memorable1 h3 {
+    font-size:22px;
+    color:#fff;
+}
+.memorable1 h2 {
+    font-size:28px;
+    color:#00ffff;
+}
+
+.memorable2 h4 {
+    font-size:30px;
+    color:#000;
+}
+.memorable2 h3 {
+    font-size:22px;
+    color:#fff;
+}
+.memorable2 h2 {
+    font-size:28px;
+    color:#00ffff;
+}
+.services {
+    margin:150px auto;
+    width:70%; 
+}
+.services h3 {
+    font-size:16px;
+    color:#000;
+}
+.services h4 {
+    font-size:42px;
+    color:#000;
+}
+.services h2 {
+    font-size:30px;
+    color:#fff;
+}
+.services p {
+    font-size:25px;
+    color:#00ffff;
+}
+.gallery {
+    margin-right:50px; 
+    margin-left:50px;
+}
+.contact-box{
+    margin:70px auto;
+    width:70%; 
+}
+form {
+    margin-top: 50px;
+    transition: all 4s ease-in-out;
+    margin-left:450px;
+}
+.form-control {
+    width:600px;
+    background: #96ded1;
+    border: 2px solid #ccc;
+    padding: 20px;
+    width: 350px;
+    height:25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: cyan;
+    outline:none;
+    font-size:20px; 
+    margin-bottom: 20px;
+}
+input {
+    height:45px;
+}
+form .submit{
+    background: #96ded1;
+    border-color: black;
+    color:black;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 60px;
+    margin-top: 20px;
+    width: 150px;
+}
+form .submit:hover {
+    background-color: #009698;
+    cursor:pointer;
+}
+.map{
+    margin:170px auto;
+    width:80%; 
+}
+iframe{
+    width:110%; 
+    height: 500px;
+}
+.links {
+    background-color: #000;
+}
+.links h3{
+    font-size: 16px;
+    color:white;
+}
+.links p{
+    font-size: 16px;
+    color:white;
+}
+.links h1{
+    font-size: 16px;
+    color:white;
+}
+button {
+    background: #96ded1;
+    border-color: black;
+    color:black;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    height: 60px;
+    margin-left: 300px;
+    margin-top: 20px;
+    width: 150px;
+}
+button .submit:hover {
+    background-color: #009698;
+    cursor:pointer;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: cyan;
+    background-color: transparent;
+    text-decoration: underline;
+  }
